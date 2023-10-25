@@ -1,0 +1,25 @@
+{
+  "name": "simple-sms",
+  "version": "1.0.0",
+  "description": "SMS-twilio project",
+  "main": "index.js",
+  "scripts": {
+    "test": "hello"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SG-Repo2/Simple-SMS.git"
+  },
+  "author": "Sean Groebe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SG-Repo2/Simple-SMS/issues"
+  },
+  "homepage": "https://github.com/SG-Repo2/Simple-SMS#readme",
+  "dependencies": {
+    "pg": "^8.11.3",
+    "pg-hstore": "^2.3.4",
+    "sequelize": "^6.33.0",
+    "sequelize-cli": "^6.6.1"
+  }
+}
