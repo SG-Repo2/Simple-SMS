@@ -4,7 +4,7 @@
     "password": null,
     "database": "simple_sms_db",
     "host": "localhost",
-    "dialect": "postgres"
+    "dialect": "postgres",
 	"port": 5432
   },
   "test": {
